@@ -1,2 +1,2 @@
 # JS-Project-1
-Its a real time JavaScript project.
+Its a real time clock JavaScript project.
